@@ -1,3 +1,4 @@
 facebook-pages-scraper
 flask
 rich
+uvicorn
